@@ -31,11 +31,6 @@ This is a simple image generator using [OpenAI API](https://openai.com/api/). yo
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/sauravhathi/image-generator-using-openai-api
-```
 
 Go to the project directory
 
@@ -51,10 +46,3 @@ Go to the project directory
 
 Open `index.html` in your browser
 
-## Authors
-
-- [@sauravhathi](https://www.github.com/sauravhathi)
-
-## License
-
-[MIT](https://github.com/sauravhathi/image-generator-using-openai-api/blob/master/LICENSE)
