@@ -1,0 +1,52 @@
+.input-style {
+    border: 2px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    color: #666;
+    background-color: #fff;
+    width: 100%;
+    outline: none;
+}
+
+.button-style {
+    background-color: #eee;
+    color: #111;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    outline: none;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.button-style:hover {
+    background-color: #111;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.button-style:focus {
+    outline: none;
+}
+body {
+    /* Set the background image */
+    background-image: url('./img.jpeg');
+
+    /* Set background image size */
+    background-size: cover;
+
+    /* Set background image position */
+    background-position: center;
+
+    /* Set background image to cover the entire body */
+    background-attachment:fixed;
+
+    /* Ensure the background is not repeated */
+    background-repeat: no-repeat;
+
+    /* Set a background color as a fallback in case the image is not available */
+    background-color: #f0f0f0;
+}
+h1{
+    font-family:SpaceGrotesk-Light;
+   
+}
